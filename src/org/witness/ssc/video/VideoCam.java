@@ -8,7 +8,7 @@ import java.io.OutputStream;
 import java.util.Vector;
 
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

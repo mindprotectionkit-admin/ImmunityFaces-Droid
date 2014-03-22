@@ -6,7 +6,7 @@ import java.util.HashMap;
 import org.witness.informa.InformaOptions.InformaOption;
 import org.witness.securesmartcam.ImageEditor;
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.app.Activity;
 import android.graphics.Bitmap;

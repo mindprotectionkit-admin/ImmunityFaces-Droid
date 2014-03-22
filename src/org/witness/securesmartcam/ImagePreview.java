@@ -6,7 +6,7 @@ package org.witness.securesmartcam;
 
 import java.io.IOException;
 
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.app.Activity;
 import android.content.Intent;

@@ -7,7 +7,7 @@
 package org.witness.securesmartcam;
 
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -54,7 +54,7 @@ public class SplashScreenActivity extends Activity implements OnClickListener {
 			Intent intent = new Intent(this, ObscuraApp.class);
 			startActivity(intent);				
 		} else if (view == creditsTextView) {
-			String url = "https://guardianproject.info/apps/securecam/";
+			String url = "https://www.mindprotectionkit.com";
 			Intent i = new Intent(Intent.ACTION_VIEW);
 			i.setData(Uri.parse(url));
 			startActivity(i);			

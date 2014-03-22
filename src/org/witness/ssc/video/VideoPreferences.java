@@ -3,7 +3,7 @@
 
 package org.witness.ssc.video;
 
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;

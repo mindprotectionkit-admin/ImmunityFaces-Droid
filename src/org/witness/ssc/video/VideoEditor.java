@@ -26,7 +26,7 @@ import org.witness.securesmartcam.filters.PixelizeObscure;
 import org.witness.ssc.video.InOutPlayheadSeekBar.InOutPlayheadSeekBarChangeListener;
 import org.witness.ssc.video.ShellUtils.ShellCallback;
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -2036,6 +2036,12 @@ public class VideoEditor extends Activity implements
 		}
 		
 		originalVideoUri = null;
+	}
+
+	@Override
+	public int getAudioSessionId() {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 	
 

@@ -30,7 +30,7 @@ import org.witness.securesmartcam.filters.MaskObscure;
 import org.witness.securesmartcam.filters.RegionProcesser;
 import org.witness.securesmartcam.jpegredaction.JpegRedaction;
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;

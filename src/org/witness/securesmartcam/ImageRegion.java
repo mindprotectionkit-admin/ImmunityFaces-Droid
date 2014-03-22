@@ -12,7 +12,7 @@ import org.witness.securesmartcam.filters.SolidObscure;
 import org.witness.securesmartcam.filters.PixelizeObscure;
 import org.witness.securesmartcam.filters.RegionProcesser;
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.graphics.Matrix;
 import android.graphics.PointF;

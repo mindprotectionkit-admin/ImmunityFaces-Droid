@@ -3,11 +3,9 @@ package org.witness.sscphase1;
 
 
 import java.io.File;
-
 import org.witness.securesmartcam.ImageEditor;
 import org.witness.ssc.video.VideoEditor;
 import org.witness.sscphase1.Eula.OnEulaAgreedTo;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ContentValues;
@@ -27,6 +25,7 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.widget.Button;
 import android.widget.Toast;
+import com.mindprotectionkit.facehide.R;
 
 public class ObscuraApp extends Activity implements OnClickListener, OnEulaAgreedTo {
 	    

@@ -4,9 +4,12 @@
 	android:id="@+id/SplashFrameLayout" android:background="@drawable/bg"
 	android:orientation="vertical">
 	
-	<ImageView android:src="@drawable/ic_ssc"
-		android:layout_width="fill_parent" android:layout_height="wrap_content"
-		android:gravity="center_horizontal" android:id="@+id/SplashScreenImageView" />
+	<ImageView
+	    android:id="@+id/SplashScreenImageView"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center_horizontal"
+	    android:src="@drawable/shield" />
 		
 	<TextView android:text="@string/SplashTextViewString"
 		android:id="@+id/SplashTextView" android:layout_width="fill_parent"

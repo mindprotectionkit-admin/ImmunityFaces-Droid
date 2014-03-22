@@ -20,7 +20,7 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.SharedPreferences;
-
+import com.mindprotectionkit.facehide.R;
 import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

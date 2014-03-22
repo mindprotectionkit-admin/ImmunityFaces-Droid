@@ -3,7 +3,7 @@ package net.londatiga.android;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.content.Context;
 import android.graphics.Rect;

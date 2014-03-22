@@ -7,7 +7,7 @@
   android:background="@drawable/bg"
   android:orientation="vertical" 
   >
-  <ImageView android:src="@drawable/ic_ssc" android:layout_width="fill_parent" 
+  <ImageView android:src="@drawable/shield" android:layout_width="fill_parent" 
   android:layout_height="150dp"
   android:gravity="center_horizontal"
   android:id="@+id/SplashScreenImageView"

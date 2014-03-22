@@ -3,7 +3,7 @@ package org.witness.informa;
 import java.util.ArrayList;
 
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.content.Context;
 import android.util.Log;

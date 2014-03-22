@@ -7,7 +7,7 @@ package org.witness.ssc.video;
 
 
 import org.witness.sscphase1.ObscuraApp;
-import org.witness.sscphase1.R;
+import com.mindprotectionkit.facehide.R;
 
 import android.content.Context;
 import android.graphics.Bitmap;
